@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/_Precarga.unity
+    guid: 1401f91e144585a4aa708a2014d207f3
+  - enabled: 1
+    path: Assets/Scenes/MenuPrincipal.unity
+    guid: 12a60dd44b181c442b6d76e11b48e5cc
+  - enabled: 1
+    path: Assets/Scenes/PrimerEscenario.unity
+    guid: 26d727e47b3b6ed489f33b55789c444a
+  - enabled: 1
+    path: Assets/Scenes/SegundoEscenario.unity
+    guid: 4fff3776c201e2a478f517df035b463f
+  - enabled: 1
+    path: Assets/Scenes/TercerEscenario.unity
+    guid: 5c1c50f502d524f4388df7a4258ca00f
+  - enabled: 1
+    path: Assets/Scenes/EscenarioFinal.unity
+    guid: 52a5b39b5808214479d6e658ade0e327
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: ee96ca4f277301144bff393a628ed8d9
+  - enabled: 1
+    path: Assets/Scenes/Final.unity
+    guid: 7c4de16fcdda1b74298c39d3e1d98a52
+  - enabled: 1
+    path: Assets/Scenes/PreEscenarioFinal.unity
+    guid: f5834648edb0e8a4799390aec3844d39
+  - enabled: 1
+    path: Assets/Scenes/Final2.unity
+    guid: c904efc1875a23f45a53f930acbe7b6c
+  - enabled: 1
+    path: Assets/Scenes/FinalTexto.unity
+    guid: 15576f7f314a07d4c93674133e43d053
+  m_configObjects: {}
